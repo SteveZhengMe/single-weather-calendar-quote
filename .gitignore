@@ -1,3 +1,13 @@
+\.idea/
+\.Idea/
+\venv/
+cwt/conf-prod\.py
+\build/
+\dist/
+\*.egg-info/
+*.pyc
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
